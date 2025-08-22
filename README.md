@@ -29,9 +29,7 @@ Front-end developer with experience in React, Express, and SQL. Passionate about
 
 ### 🧰 Software and Tools 
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ### 🔧 Others 
 
@@ -42,10 +40,12 @@ Front-end developer with experience in React, Express, and SQL. Passionate about
 
 ### 🌤️ Weather App 
 Weather forecast app created as part of a challenge on devChallenges.io. It allows users to search for any city and get a 5-day, hourly weather forecast, with additional data such as wind, humidity, and more.
+
 🔴 LIVE : https://kuglerweather.vercel.app/
 
 ### React E-commerce
 Modern, responsive commerce platform built with React and Bootstrap. Includes product search, filters, shopping cart management, favorites, product details, checkout, and light/dark mode.
+
 🔴 LIVE : https://kuglerstore.vercel.app/
 
 ## 🤝 Contact
