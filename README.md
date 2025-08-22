@@ -4,10 +4,10 @@ Front-end developer with experience in React, Express, and SQL. Passionate about
 
 ## 📌 About me : 
 
-🎓 Programming student at UNLZ
-🚀 Open to opportunities
-👨‍💻 Learning Full-Stack development in a self-taught manner
-🌍 Good level of English
+- 🎓 Programming student at UNLZ
+- 🚀 Open to opportunities
+- 👨‍💻 Learning Full-Stack development in a self-taught manner
+- 🌍 Good level of English
 
 ## 🛠️ Technologies and Tools 
 
@@ -50,6 +50,8 @@ Modern, responsive commerce platform built with React and Bootstrap. Includes pr
 
 ## 🤝 Contact
 Portfolio : https://maximokugler.vercel.app/
+
 Email : Rodri7.9.02313@gmail.com
+
 Linkedin : https://www.linkedin.com/in/maximo-kugler-716962379/
 
